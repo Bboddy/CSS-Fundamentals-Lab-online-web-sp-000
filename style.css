@@ -11,3 +11,8 @@ h1 {
 header{
   text-align: center;
 }
+
+.featured-property{
+  align-items: center;
+  text-align: center;
+}
